@@ -10,12 +10,12 @@ struct Args {
     length_in_bytes: bool,
     #[arg(short='l', long="lines")]
     num_of_lines: bool,
+    #[arg(short='m', long="characters")]
+    num_of_characters: bool,
 }
 
 fn main() {
     let args = Args::parse();
-    dbg!(&args);
-
     run(args);
 }
 
@@ -24,10 +24,14 @@ fn run(args: Args) {
     let file_contents = fs::read_to_string(&file_name).expect("Couldnt read the file content.");
     let file_metadata = fs::metadata(&file_name).expect("Couldnt read the file's metadata.");
 
-    if args.length_in_bytes != true && 
-    args.num_of_lines != true {
+    if 
+    args.length_in_bytes != true && 
+    args.num_of_lines != true &&
+    args.num_of_characters != true
+    {
         display_length_in_bytes(&file_name, &file_metadata);
         display_number_of_lines(&file_name, &file_contents);   
+        display_number_of_characters(&file_name, &file_contents);
     }
 
     if args.length_in_bytes {
@@ -36,6 +40,10 @@ fn run(args: Args) {
 
     if args.num_of_lines {
         display_number_of_lines(&file_name, &file_contents);
+    }
+
+    if args.num_of_characters {
+        display_number_of_characters(&file_name, &file_contents);
     }
 }
 
@@ -47,4 +55,9 @@ fn display_length_in_bytes(file_name: &String, metadata: &Metadata) {
 fn display_number_of_lines(file_name: &String, contents: &String) {
     let lines = contents.lines().count();
     println!("The number of lines for: '{}' is {}", file_name, lines);
+}
+
+fn display_number_of_characters(file_name: &String, contents: &String) {
+    let characters = contents.chars().count();
+    println!("The number of characters for '{}' is {}", file_name, characters);
 }
