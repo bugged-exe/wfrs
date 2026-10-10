@@ -1,0 +1,1553 @@
+Sample text file from textfilegenerator.com
+Plain UTF-8 text, Unix line endings (LF).
+Use it freely for testing uploads, parsers, encoding, or line counts.
+
+000001  The quick brown fox jumps over the lazy dog.
+000002  Plain text files store characters and nothing else.
+000003  This line exists so you can count lines while testing.
+000004  No formatting, no fonts, no hidden markup anywhere in here.
+000005  Every line ends with a standard newline character.
+000006  You can open this file in any text editor on any system.
+000007  Sorting, searching, and splitting all work on files like this.
+000008  Encoding is UTF-8, which is the default nearly everywhere today.
+000009  Feel free to edit, cut down, or paste this into your own tests.
+000010  A text file from 1990 still opens the same way one from today does.
+000011  The quick brown fox jumps over the lazy dog.
+000012  Plain text files store characters and nothing else.
+000013  This line exists so you can count lines while testing.
+000014  No formatting, no fonts, no hidden markup anywhere in here.
+000015  Every line ends with a standard newline character.
+000016  You can open this file in any text editor on any system.
+000017  Sorting, searching, and splitting all work on files like this.
+000018  Encoding is UTF-8, which is the default nearly everywhere today.
+000019  Feel free to edit, cut down, or paste this into your own tests.
+000020  A text file from 1990 still opens the same way one from today does.
+000021  The quick brown fox jumps over the lazy dog.
+000022  Plain text files store characters and nothing else.
+000023  This line exists so you can count lines while testing.
+000024  No formatting, no fonts, no hidden markup anywhere in here.
+000025  Every line ends with a standard newline character.
+000026  You can open this file in any text editor on any system.
+000027  Sorting, searching, and splitting all work on files like this.
+000028  Encoding is UTF-8, which is the default nearly everywhere today.
+000029  Feel free to edit, cut down, or paste this into your own tests.
+000030  A text file from 1990 still opens the same way one from today does.
+000031  The quick brown fox jumps over the lazy dog.
+000032  Plain text files store characters and nothing else.
+000033  This line exists so you can count lines while testing.
+000034  No formatting, no fonts, no hidden markup anywhere in here.
+000035  Every line ends with a standard newline character.
+000036  You can open this file in any text editor on any system.
+000037  Sorting, searching, and splitting all work on files like this.
+000038  Encoding is UTF-8, which is the default nearly everywhere today.
+000039  Feel free to edit, cut down, or paste this into your own tests.
+000040  A text file from 1990 still opens the same way one from today does.
+000041  The quick brown fox jumps over the lazy dog.
+000042  Plain text files store characters and nothing else.
+000043  This line exists so you can count lines while testing.
+000044  No formatting, no fonts, no hidden markup anywhere in here.
+000045  Every line ends with a standard newline character.
+000046  You can open this file in any text editor on any system.
+000047  Sorting, searching, and splitting all work on files like this.
+000048  Encoding is UTF-8, which is the default nearly everywhere today.
+000049  Feel free to edit, cut down, or paste this into your own tests.
+000050  A text file from 1990 still opens the same way one from today does.
+000051  The quick brown fox jumps over the lazy dog.
+000052  Plain text files store characters and nothing else.
+000053  This line exists so you can count lines while testing.
+000054  No formatting, no fonts, no hidden markup anywhere in here.
+000055  Every line ends with a standard newline character.
+000056  You can open this file in any text editor on any system.
+000057  Sorting, searching, and splitting all work on files like this.
+000058  Encoding is UTF-8, which is the default nearly everywhere today.
+000059  Feel free to edit, cut down, or paste this into your own tests.
+000060  A text file from 1990 still opens the same way one from today does.
+000061  The quick brown fox jumps over the lazy dog.
+000062  Plain text files store characters and nothing else.
+000063  This line exists so you can count lines while testing.
+000064  No formatting, no fonts, no hidden markup anywhere in here.
+000065  Every line ends with a standard newline character.
+000066  You can open this file in any text editor on any system.
+000067  Sorting, searching, and splitting all work on files like this.
+000068  Encoding is UTF-8, which is the default nearly everywhere today.
+000069  Feel free to edit, cut down, or paste this into your own tests.
+000070  A text file from 1990 still opens the same way one from today does.
+000071  The quick brown fox jumps over the lazy dog.
+000072  Plain text files store characters and nothing else.
+000073  This line exists so you can count lines while testing.
+000074  No formatting, no fonts, no hidden markup anywhere in here.
+000075  Every line ends with a standard newline character.
+000076  You can open this file in any text editor on any system.
+000077  Sorting, searching, and splitting all work on files like this.
+000078  Encoding is UTF-8, which is the default nearly everywhere today.
+000079  Feel free to edit, cut down, or paste this into your own tests.
+000080  A text file from 1990 still opens the same way one from today does.
+000081  The quick brown fox jumps over the lazy dog.
+000082  Plain text files store characters and nothing else.
+000083  This line exists so you can count lines while testing.
+000084  No formatting, no fonts, no hidden markup anywhere in here.
+000085  Every line ends with a standard newline character.
+000086  You can open this file in any text editor on any system.
+000087  Sorting, searching, and splitting all work on files like this.
+000088  Encoding is UTF-8, which is the default nearly everywhere today.
+000089  Feel free to edit, cut down, or paste this into your own tests.
+000090  A text file from 1990 still opens the same way one from today does.
+000091  The quick brown fox jumps over the lazy dog.
+000092  Plain text files store characters and nothing else.
+000093  This line exists so you can count lines while testing.
+000094  No formatting, no fonts, no hidden markup anywhere in here.
+000095  Every line ends with a standard newline character.
+000096  You can open this file in any text editor on any system.
+000097  Sorting, searching, and splitting all work on files like this.
+000098  Encoding is UTF-8, which is the default nearly everywhere today.
+000099  Feel free to edit, cut down, or paste this into your own tests.
+000100  A text file from 1990 still opens the same way one from today does.
+000101  The quick brown fox jumps over the lazy dog.
+000102  Plain text files store characters and nothing else.
+000103  This line exists so you can count lines while testing.
+000104  No formatting, no fonts, no hidden markup anywhere in here.
+000105  Every line ends with a standard newline character.
+000106  You can open this file in any text editor on any system.
+000107  Sorting, searching, and splitting all work on files like this.
+000108  Encoding is UTF-8, which is the default nearly everywhere today.
+000109  Feel free to edit, cut down, or paste this into your own tests.
+000110  A text file from 1990 still opens the same way one from today does.
+000111  The quick brown fox jumps over the lazy dog.
+000112  Plain text files store characters and nothing else.
+000113  This line exists so you can count lines while testing.
+000114  No formatting, no fonts, no hidden markup anywhere in here.
+000115  Every line ends with a standard newline character.
+000116  You can open this file in any text editor on any system.
+000117  Sorting, searching, and splitting all work on files like this.
+000118  Encoding is UTF-8, which is the default nearly everywhere today.
+000119  Feel free to edit, cut down, or paste this into your own tests.
+000120  A text file from 1990 still opens the same way one from today does.
+000121  The quick brown fox jumps over the lazy dog.
+000122  Plain text files store characters and nothing else.
+000123  This line exists so you can count lines while testing.
+000124  No formatting, no fonts, no hidden markup anywhere in here.
+000125  Every line ends with a standard newline character.
+000126  You can open this file in any text editor on any system.
+000127  Sorting, searching, and splitting all work on files like this.
+000128  Encoding is UTF-8, which is the default nearly everywhere today.
+000129  Feel free to edit, cut down, or paste this into your own tests.
+000130  A text file from 1990 still opens the same way one from today does.
+000131  The quick brown fox jumps over the lazy dog.
+000132  Plain text files store characters and nothing else.
+000133  This line exists so you can count lines while testing.
+000134  No formatting, no fonts, no hidden markup anywhere in here.
+000135  Every line ends with a standard newline character.
+000136  You can open this file in any text editor on any system.
+000137  Sorting, searching, and splitting all work on files like this.
+000138  Encoding is UTF-8, which is the default nearly everywhere today.
+000139  Feel free to edit, cut down, or paste this into your own tests.
+000140  A text file from 1990 still opens the same way one from today does.
+000141  The quick brown fox jumps over the lazy dog.
+000142  Plain text files store characters and nothing else.
+000143  This line exists so you can count lines while testing.
+000144  No formatting, no fonts, no hidden markup anywhere in here.
+000145  Every line ends with a standard newline character.
+000146  You can open this file in any text editor on any system.
+000147  Sorting, searching, and splitting all work on files like this.
+000148  Encoding is UTF-8, which is the default nearly everywhere today.
+000149  Feel free to edit, cut down, or paste this into your own tests.
+000150  A text file from 1990 still opens the same way one from today does.
+000151  The quick brown fox jumps over the lazy dog.
+000152  Plain text files store characters and nothing else.
+000153  This line exists so you can count lines while testing.
+000154  No formatting, no fonts, no hidden markup anywhere in here.
+000155  Every line ends with a standard newline character.
+000156  You can open this file in any text editor on any system.
+000157  Sorting, searching, and splitting all work on files like this.
+000158  Encoding is UTF-8, which is the default nearly everywhere today.
+000159  Feel free to edit, cut down, or paste this into your own tests.
+000160  A text file from 1990 still opens the same way one from today does.
+000161  The quick brown fox jumps over the lazy dog.
+000162  Plain text files store characters and nothing else.
+000163  This line exists so you can count lines while testing.
+000164  No formatting, no fonts, no hidden markup anywhere in here.
+000165  Every line ends with a standard newline character.
+000166  You can open this file in any text editor on any system.
+000167  Sorting, searching, and splitting all work on files like this.
+000168  Encoding is UTF-8, which is the default nearly everywhere today.
+000169  Feel free to edit, cut down, or paste this into your own tests.
+000170  A text file from 1990 still opens the same way one from today does.
+000171  The quick brown fox jumps over the lazy dog.
+000172  Plain text files store characters and nothing else.
+000173  This line exists so you can count lines while testing.
+000174  No formatting, no fonts, no hidden markup anywhere in here.
+000175  Every line ends with a standard newline character.
+000176  You can open this file in any text editor on any system.
+000177  Sorting, searching, and splitting all work on files like this.
+000178  Encoding is UTF-8, which is the default nearly everywhere today.
+000179  Feel free to edit, cut down, or paste this into your own tests.
+000180  A text file from 1990 still opens the same way one from today does.
+000181  The quick brown fox jumps over the lazy dog.
+000182  Plain text files store characters and nothing else.
+000183  This line exists so you can count lines while testing.
+000184  No formatting, no fonts, no hidden markup anywhere in here.
+000185  Every line ends with a standard newline character.
+000186  You can open this file in any text editor on any system.
+000187  Sorting, searching, and splitting all work on files like this.
+000188  Encoding is UTF-8, which is the default nearly everywhere today.
+000189  Feel free to edit, cut down, or paste this into your own tests.
+000190  A text file from 1990 still opens the same way one from today does.
+000191  The quick brown fox jumps over the lazy dog.
+000192  Plain text files store characters and nothing else.
+000193  This line exists so you can count lines while testing.
+000194  No formatting, no fonts, no hidden markup anywhere in here.
+000195  Every line ends with a standard newline character.
+000196  You can open this file in any text editor on any system.
+000197  Sorting, searching, and splitting all work on files like this.
+000198  Encoding is UTF-8, which is the default nearly everywhere today.
+000199  Feel free to edit, cut down, or paste this into your own tests.
+000200  A text file from 1990 still opens the same way one from today does.
+000201  The quick brown fox jumps over the lazy dog.
+000202  Plain text files store characters and nothing else.
+000203  This line exists so you can count lines while testing.
+000204  No formatting, no fonts, no hidden markup anywhere in here.
+000205  Every line ends with a standard newline character.
+000206  You can open this file in any text editor on any system.
+000207  Sorting, searching, and splitting all work on files like this.
+000208  Encoding is UTF-8, which is the default nearly everywhere today.
+000209  Feel free to edit, cut down, or paste this into your own tests.
+000210  A text file from 1990 still opens the same way one from today does.
+000211  The quick brown fox jumps over the lazy dog.
+000212  Plain text files store characters and nothing else.
+000213  This line exists so you can count lines while testing.
+000214  No formatting, no fonts, no hidden markup anywhere in here.
+000215  Every line ends with a standard newline character.
+000216  You can open this file in any text editor on any system.
+000217  Sorting, searching, and splitting all work on files like this.
+000218  Encoding is UTF-8, which is the default nearly everywhere today.
+000219  Feel free to edit, cut down, or paste this into your own tests.
+000220  A text file from 1990 still opens the same way one from today does.
+000221  The quick brown fox jumps over the lazy dog.
+000222  Plain text files store characters and nothing else.
+000223  This line exists so you can count lines while testing.
+000224  No formatting, no fonts, no hidden markup anywhere in here.
+000225  Every line ends with a standard newline character.
+000226  You can open this file in any text editor on any system.
+000227  Sorting, searching, and splitting all work on files like this.
+000228  Encoding is UTF-8, which is the default nearly everywhere today.
+000229  Feel free to edit, cut down, or paste this into your own tests.
+000230  A text file from 1990 still opens the same way one from today does.
+000231  The quick brown fox jumps over the lazy dog.
+000232  Plain text files store characters and nothing else.
+000233  This line exists so you can count lines while testing.
+000234  No formatting, no fonts, no hidden markup anywhere in here.
+000235  Every line ends with a standard newline character.
+000236  You can open this file in any text editor on any system.
+000237  Sorting, searching, and splitting all work on files like this.
+000238  Encoding is UTF-8, which is the default nearly everywhere today.
+000239  Feel free to edit, cut down, or paste this into your own tests.
+000240  A text file from 1990 still opens the same way one from today does.
+000241  The quick brown fox jumps over the lazy dog.
+000242  Plain text files store characters and nothing else.
+000243  This line exists so you can count lines while testing.
+000244  No formatting, no fonts, no hidden markup anywhere in here.
+000245  Every line ends with a standard newline character.
+000246  You can open this file in any text editor on any system.
+000247  Sorting, searching, and splitting all work on files like this.
+000248  Encoding is UTF-8, which is the default nearly everywhere today.
+000249  Feel free to edit, cut down, or paste this into your own tests.
+000250  A text file from 1990 still opens the same way one from today does.
+000251  The quick brown fox jumps over the lazy dog.
+000252  Plain text files store characters and nothing else.
+000253  This line exists so you can count lines while testing.
+000254  No formatting, no fonts, no hidden markup anywhere in here.
+000255  Every line ends with a standard newline character.
+000256  You can open this file in any text editor on any system.
+000257  Sorting, searching, and splitting all work on files like this.
+000258  Encoding is UTF-8, which is the default nearly everywhere today.
+000259  Feel free to edit, cut down, or paste this into your own tests.
+000260  A text file from 1990 still opens the same way one from today does.
+000261  The quick brown fox jumps over the lazy dog.
+000262  Plain text files store characters and nothing else.
+000263  This line exists so you can count lines while testing.
+000264  No formatting, no fonts, no hidden markup anywhere in here.
+000265  Every line ends with a standard newline character.
+000266  You can open this file in any text editor on any system.
+000267  Sorting, searching, and splitting all work on files like this.
+000268  Encoding is UTF-8, which is the default nearly everywhere today.
+000269  Feel free to edit, cut down, or paste this into your own tests.
+000270  A text file from 1990 still opens the same way one from today does.
+000271  The quick brown fox jumps over the lazy dog.
+000272  Plain text files store characters and nothing else.
+000273  This line exists so you can count lines while testing.
+000274  No formatting, no fonts, no hidden markup anywhere in here.
+000275  Every line ends with a standard newline character.
+000276  You can open this file in any text editor on any system.
+000277  Sorting, searching, and splitting all work on files like this.
+000278  Encoding is UTF-8, which is the default nearly everywhere today.
+000279  Feel free to edit, cut down, or paste this into your own tests.
+000280  A text file from 1990 still opens the same way one from today does.
+000281  The quick brown fox jumps over the lazy dog.
+000282  Plain text files store characters and nothing else.
+000283  This line exists so you can count lines while testing.
+000284  No formatting, no fonts, no hidden markup anywhere in here.
+000285  Every line ends with a standard newline character.
+000286  You can open this file in any text editor on any system.
+000287  Sorting, searching, and splitting all work on files like this.
+000288  Encoding is UTF-8, which is the default nearly everywhere today.
+000289  Feel free to edit, cut down, or paste this into your own tests.
+000290  A text file from 1990 still opens the same way one from today does.
+000291  The quick brown fox jumps over the lazy dog.
+000292  Plain text files store characters and nothing else.
+000293  This line exists so you can count lines while testing.
+000294  No formatting, no fonts, no hidden markup anywhere in here.
+000295  Every line ends with a standard newline character.
+000296  You can open this file in any text editor on any system.
+000297  Sorting, searching, and splitting all work on files like this.
+000298  Encoding is UTF-8, which is the default nearly everywhere today.
+000299  Feel free to edit, cut down, or paste this into your own tests.
+000300  A text file from 1990 still opens the same way one from today does.
+000301  The quick brown fox jumps over the lazy dog.
+000302  Plain text files store characters and nothing else.
+000303  This line exists so you can count lines while testing.
+000304  No formatting, no fonts, no hidden markup anywhere in here.
+000305  Every line ends with a standard newline character.
+000306  You can open this file in any text editor on any system.
+000307  Sorting, searching, and splitting all work on files like this.
+000308  Encoding is UTF-8, which is the default nearly everywhere today.
+000309  Feel free to edit, cut down, or paste this into your own tests.
+000310  A text file from 1990 still opens the same way one from today does.
+000311  The quick brown fox jumps over the lazy dog.
+000312  Plain text files store characters and nothing else.
+000313  This line exists so you can count lines while testing.
+000314  No formatting, no fonts, no hidden markup anywhere in here.
+000315  Every line ends with a standard newline character.
+000316  You can open this file in any text editor on any system.
+000317  Sorting, searching, and splitting all work on files like this.
+000318  Encoding is UTF-8, which is the default nearly everywhere today.
+000319  Feel free to edit, cut down, or paste this into your own tests.
+000320  A text file from 1990 still opens the same way one from today does.
+000321  The quick brown fox jumps over the lazy dog.
+000322  Plain text files store characters and nothing else.
+000323  This line exists so you can count lines while testing.
+000324  No formatting, no fonts, no hidden markup anywhere in here.
+000325  Every line ends with a standard newline character.
+000326  You can open this file in any text editor on any system.
+000327  Sorting, searching, and splitting all work on files like this.
+000328  Encoding is UTF-8, which is the default nearly everywhere today.
+000329  Feel free to edit, cut down, or paste this into your own tests.
+000330  A text file from 1990 still opens the same way one from today does.
+000331  The quick brown fox jumps over the lazy dog.
+000332  Plain text files store characters and nothing else.
+000333  This line exists so you can count lines while testing.
+000334  No formatting, no fonts, no hidden markup anywhere in here.
+000335  Every line ends with a standard newline character.
+000336  You can open this file in any text editor on any system.
+000337  Sorting, searching, and splitting all work on files like this.
+000338  Encoding is UTF-8, which is the default nearly everywhere today.
+000339  Feel free to edit, cut down, or paste this into your own tests.
+000340  A text file from 1990 still opens the same way one from today does.
+000341  The quick brown fox jumps over the lazy dog.
+000342  Plain text files store characters and nothing else.
+000343  This line exists so you can count lines while testing.
+000344  No formatting, no fonts, no hidden markup anywhere in here.
+000345  Every line ends with a standard newline character.
+000346  You can open this file in any text editor on any system.
+000347  Sorting, searching, and splitting all work on files like this.
+000348  Encoding is UTF-8, which is the default nearly everywhere today.
+000349  Feel free to edit, cut down, or paste this into your own tests.
+000350  A text file from 1990 still opens the same way one from today does.
+000351  The quick brown fox jumps over the lazy dog.
+000352  Plain text files store characters and nothing else.
+000353  This line exists so you can count lines while testing.
+000354  No formatting, no fonts, no hidden markup anywhere in here.
+000355  Every line ends with a standard newline character.
+000356  You can open this file in any text editor on any system.
+000357  Sorting, searching, and splitting all work on files like this.
+000358  Encoding is UTF-8, which is the default nearly everywhere today.
+000359  Feel free to edit, cut down, or paste this into your own tests.
+000360  A text file from 1990 still opens the same way one from today does.
+000361  The quick brown fox jumps over the lazy dog.
+000362  Plain text files store characters and nothing else.
+000363  This line exists so you can count lines while testing.
+000364  No formatting, no fonts, no hidden markup anywhere in here.
+000365  Every line ends with a standard newline character.
+000366  You can open this file in any text editor on any system.
+000367  Sorting, searching, and splitting all work on files like this.
+000368  Encoding is UTF-8, which is the default nearly everywhere today.
+000369  Feel free to edit, cut down, or paste this into your own tests.
+000370  A text file from 1990 still opens the same way one from today does.
+000371  The quick brown fox jumps over the lazy dog.
+000372  Plain text files store characters and nothing else.
+000373  This line exists so you can count lines while testing.
+000374  No formatting, no fonts, no hidden markup anywhere in here.
+000375  Every line ends with a standard newline character.
+000376  You can open this file in any text editor on any system.
+000377  Sorting, searching, and splitting all work on files like this.
+000378  Encoding is UTF-8, which is the default nearly everywhere today.
+000379  Feel free to edit, cut down, or paste this into your own tests.
+000380  A text file from 1990 still opens the same way one from today does.
+000381  The quick brown fox jumps over the lazy dog.
+000382  Plain text files store characters and nothing else.
+000383  This line exists so you can count lines while testing.
+000384  No formatting, no fonts, no hidden markup anywhere in here.
+000385  Every line ends with a standard newline character.
+000386  You can open this file in any text editor on any system.
+000387  Sorting, searching, and splitting all work on files like this.
+000388  Encoding is UTF-8, which is the default nearly everywhere today.
+000389  Feel free to edit, cut down, or paste this into your own tests.
+000390  A text file from 1990 still opens the same way one from today does.
+000391  The quick brown fox jumps over the lazy dog.
+000392  Plain text files store characters and nothing else.
+000393  This line exists so you can count lines while testing.
+000394  No formatting, no fonts, no hidden markup anywhere in here.
+000395  Every line ends with a standard newline character.
+000396  You can open this file in any text editor on any system.
+000397  Sorting, searching, and splitting all work on files like this.
+000398  Encoding is UTF-8, which is the default nearly everywhere today.
+000399  Feel free to edit, cut down, or paste this into your own tests.
+000400  A text file from 1990 still opens the same way one from today does.
+000401  The quick brown fox jumps over the lazy dog.
+000402  Plain text files store characters and nothing else.
+000403  This line exists so you can count lines while testing.
+000404  No formatting, no fonts, no hidden markup anywhere in here.
+000405  Every line ends with a standard newline character.
+000406  You can open this file in any text editor on any system.
+000407  Sorting, searching, and splitting all work on files like this.
+000408  Encoding is UTF-8, which is the default nearly everywhere today.
+000409  Feel free to edit, cut down, or paste this into your own tests.
+000410  A text file from 1990 still opens the same way one from today does.
+000411  The quick brown fox jumps over the lazy dog.
+000412  Plain text files store characters and nothing else.
+000413  This line exists so you can count lines while testing.
+000414  No formatting, no fonts, no hidden markup anywhere in here.
+000415  Every line ends with a standard newline character.
+000416  You can open this file in any text editor on any system.
+000417  Sorting, searching, and splitting all work on files like this.
+000418  Encoding is UTF-8, which is the default nearly everywhere today.
+000419  Feel free to edit, cut down, or paste this into your own tests.
+000420  A text file from 1990 still opens the same way one from today does.
+000421  The quick brown fox jumps over the lazy dog.
+000422  Plain text files store characters and nothing else.
+000423  This line exists so you can count lines while testing.
+000424  No formatting, no fonts, no hidden markup anywhere in here.
+000425  Every line ends with a standard newline character.
+000426  You can open this file in any text editor on any system.
+000427  Sorting, searching, and splitting all work on files like this.
+000428  Encoding is UTF-8, which is the default nearly everywhere today.
+000429  Feel free to edit, cut down, or paste this into your own tests.
+000430  A text file from 1990 still opens the same way one from today does.
+000431  The quick brown fox jumps over the lazy dog.
+000432  Plain text files store characters and nothing else.
+000433  This line exists so you can count lines while testing.
+000434  No formatting, no fonts, no hidden markup anywhere in here.
+000435  Every line ends with a standard newline character.
+000436  You can open this file in any text editor on any system.
+000437  Sorting, searching, and splitting all work on files like this.
+000438  Encoding is UTF-8, which is the default nearly everywhere today.
+000439  Feel free to edit, cut down, or paste this into your own tests.
+000440  A text file from 1990 still opens the same way one from today does.
+000441  The quick brown fox jumps over the lazy dog.
+000442  Plain text files store characters and nothing else.
+000443  This line exists so you can count lines while testing.
+000444  No formatting, no fonts, no hidden markup anywhere in here.
+000445  Every line ends with a standard newline character.
+000446  You can open this file in any text editor on any system.
+000447  Sorting, searching, and splitting all work on files like this.
+000448  Encoding is UTF-8, which is the default nearly everywhere today.
+000449  Feel free to edit, cut down, or paste this into your own tests.
+000450  A text file from 1990 still opens the same way one from today does.
+000451  The quick brown fox jumps over the lazy dog.
+000452  Plain text files store characters and nothing else.
+000453  This line exists so you can count lines while testing.
+000454  No formatting, no fonts, no hidden markup anywhere in here.
+000455  Every line ends with a standard newline character.
+000456  You can open this file in any text editor on any system.
+000457  Sorting, searching, and splitting all work on files like this.
+000458  Encoding is UTF-8, which is the default nearly everywhere today.
+000459  Feel free to edit, cut down, or paste this into your own tests.
+000460  A text file from 1990 still opens the same way one from today does.
+000461  The quick brown fox jumps over the lazy dog.
+000462  Plain text files store characters and nothing else.
+000463  This line exists so you can count lines while testing.
+000464  No formatting, no fonts, no hidden markup anywhere in here.
+000465  Every line ends with a standard newline character.
+000466  You can open this file in any text editor on any system.
+000467  Sorting, searching, and splitting all work on files like this.
+000468  Encoding is UTF-8, which is the default nearly everywhere today.
+000469  Feel free to edit, cut down, or paste this into your own tests.
+000470  A text file from 1990 still opens the same way one from today does.
+000471  The quick brown fox jumps over the lazy dog.
+000472  Plain text files store characters and nothing else.
+000473  This line exists so you can count lines while testing.
+000474  No formatting, no fonts, no hidden markup anywhere in here.
+000475  Every line ends with a standard newline character.
+000476  You can open this file in any text editor on any system.
+000477  Sorting, searching, and splitting all work on files like this.
+000478  Encoding is UTF-8, which is the default nearly everywhere today.
+000479  Feel free to edit, cut down, or paste this into your own tests.
+000480  A text file from 1990 still opens the same way one from today does.
+000481  The quick brown fox jumps over the lazy dog.
+000482  Plain text files store characters and nothing else.
+000483  This line exists so you can count lines while testing.
+000484  No formatting, no fonts, no hidden markup anywhere in here.
+000485  Every line ends with a standard newline character.
+000486  You can open this file in any text editor on any system.
+000487  Sorting, searching, and splitting all work on files like this.
+000488  Encoding is UTF-8, which is the default nearly everywhere today.
+000489  Feel free to edit, cut down, or paste this into your own tests.
+000490  A text file from 1990 still opens the same way one from today does.
+000491  The quick brown fox jumps over the lazy dog.
+000492  Plain text files store characters and nothing else.
+000493  This line exists so you can count lines while testing.
+000494  No formatting, no fonts, no hidden markup anywhere in here.
+000495  Every line ends with a standard newline character.
+000496  You can open this file in any text editor on any system.
+000497  Sorting, searching, and splitting all work on files like this.
+000498  Encoding is UTF-8, which is the default nearly everywhere today.
+000499  Feel free to edit, cut down, or paste this into your own tests.
+000500  A text file from 1990 still opens the same way one from today does.
+000501  The quick brown fox jumps over the lazy dog.
+000502  Plain text files store characters and nothing else.
+000503  This line exists so you can count lines while testing.
+000504  No formatting, no fonts, no hidden markup anywhere in here.
+000505  Every line ends with a standard newline character.
+000506  You can open this file in any text editor on any system.
+000507  Sorting, searching, and splitting all work on files like this.
+000508  Encoding is UTF-8, which is the default nearly everywhere today.
+000509  Feel free to edit, cut down, or paste this into your own tests.
+000510  A text file from 1990 still opens the same way one from today does.
+000511  The quick brown fox jumps over the lazy dog.
+000512  Plain text files store characters and nothing else.
+000513  This line exists so you can count lines while testing.
+000514  No formatting, no fonts, no hidden markup anywhere in here.
+000515  Every line ends with a standard newline character.
+000516  You can open this file in any text editor on any system.
+000517  Sorting, searching, and splitting all work on files like this.
+000518  Encoding is UTF-8, which is the default nearly everywhere today.
+000519  Feel free to edit, cut down, or paste this into your own tests.
+000520  A text file from 1990 still opens the same way one from today does.
+000521  The quick brown fox jumps over the lazy dog.
+000522  Plain text files store characters and nothing else.
+000523  This line exists so you can count lines while testing.
+000524  No formatting, no fonts, no hidden markup anywhere in here.
+000525  Every line ends with a standard newline character.
+000526  You can open this file in any text editor on any system.
+000527  Sorting, searching, and splitting all work on files like this.
+000528  Encoding is UTF-8, which is the default nearly everywhere today.
+000529  Feel free to edit, cut down, or paste this into your own tests.
+000530  A text file from 1990 still opens the same way one from today does.
+000531  The quick brown fox jumps over the lazy dog.
+000532  Plain text files store characters and nothing else.
+000533  This line exists so you can count lines while testing.
+000534  No formatting, no fonts, no hidden markup anywhere in here.
+000535  Every line ends with a standard newline character.
+000536  You can open this file in any text editor on any system.
+000537  Sorting, searching, and splitting all work on files like this.
+000538  Encoding is UTF-8, which is the default nearly everywhere today.
+000539  Feel free to edit, cut down, or paste this into your own tests.
+000540  A text file from 1990 still opens the same way one from today does.
+000541  The quick brown fox jumps over the lazy dog.
+000542  Plain text files store characters and nothing else.
+000543  This line exists so you can count lines while testing.
+000544  No formatting, no fonts, no hidden markup anywhere in here.
+000545  Every line ends with a standard newline character.
+000546  You can open this file in any text editor on any system.
+000547  Sorting, searching, and splitting all work on files like this.
+000548  Encoding is UTF-8, which is the default nearly everywhere today.
+000549  Feel free to edit, cut down, or paste this into your own tests.
+000550  A text file from 1990 still opens the same way one from today does.
+000551  The quick brown fox jumps over the lazy dog.
+000552  Plain text files store characters and nothing else.
+000553  This line exists so you can count lines while testing.
+000554  No formatting, no fonts, no hidden markup anywhere in here.
+000555  Every line ends with a standard newline character.
+000556  You can open this file in any text editor on any system.
+000557  Sorting, searching, and splitting all work on files like this.
+000558  Encoding is UTF-8, which is the default nearly everywhere today.
+000559  Feel free to edit, cut down, or paste this into your own tests.
+000560  A text file from 1990 still opens the same way one from today does.
+000561  The quick brown fox jumps over the lazy dog.
+000562  Plain text files store characters and nothing else.
+000563  This line exists so you can count lines while testing.
+000564  No formatting, no fonts, no hidden markup anywhere in here.
+000565  Every line ends with a standard newline character.
+000566  You can open this file in any text editor on any system.
+000567  Sorting, searching, and splitting all work on files like this.
+000568  Encoding is UTF-8, which is the default nearly everywhere today.
+000569  Feel free to edit, cut down, or paste this into your own tests.
+000570  A text file from 1990 still opens the same way one from today does.
+000571  The quick brown fox jumps over the lazy dog.
+000572  Plain text files store characters and nothing else.
+000573  This line exists so you can count lines while testing.
+000574  No formatting, no fonts, no hidden markup anywhere in here.
+000575  Every line ends with a standard newline character.
+000576  You can open this file in any text editor on any system.
+000577  Sorting, searching, and splitting all work on files like this.
+000578  Encoding is UTF-8, which is the default nearly everywhere today.
+000579  Feel free to edit, cut down, or paste this into your own tests.
+000580  A text file from 1990 still opens the same way one from today does.
+000581  The quick brown fox jumps over the lazy dog.
+000582  Plain text files store characters and nothing else.
+000583  This line exists so you can count lines while testing.
+000584  No formatting, no fonts, no hidden markup anywhere in here.
+000585  Every line ends with a standard newline character.
+000586  You can open this file in any text editor on any system.
+000587  Sorting, searching, and splitting all work on files like this.
+000588  Encoding is UTF-8, which is the default nearly everywhere today.
+000589  Feel free to edit, cut down, or paste this into your own tests.
+000590  A text file from 1990 still opens the same way one from today does.
+000591  The quick brown fox jumps over the lazy dog.
+000592  Plain text files store characters and nothing else.
+000593  This line exists so you can count lines while testing.
+000594  No formatting, no fonts, no hidden markup anywhere in here.
+000595  Every line ends with a standard newline character.
+000596  You can open this file in any text editor on any system.
+000597  Sorting, searching, and splitting all work on files like this.
+000598  Encoding is UTF-8, which is the default nearly everywhere today.
+000599  Feel free to edit, cut down, or paste this into your own tests.
+000600  A text file from 1990 still opens the same way one from today does.
+000601  The quick brown fox jumps over the lazy dog.
+000602  Plain text files store characters and nothing else.
+000603  This line exists so you can count lines while testing.
+000604  No formatting, no fonts, no hidden markup anywhere in here.
+000605  Every line ends with a standard newline character.
+000606  You can open this file in any text editor on any system.
+000607  Sorting, searching, and splitting all work on files like this.
+000608  Encoding is UTF-8, which is the default nearly everywhere today.
+000609  Feel free to edit, cut down, or paste this into your own tests.
+000610  A text file from 1990 still opens the same way one from today does.
+000611  The quick brown fox jumps over the lazy dog.
+000612  Plain text files store characters and nothing else.
+000613  This line exists so you can count lines while testing.
+000614  No formatting, no fonts, no hidden markup anywhere in here.
+000615  Every line ends with a standard newline character.
+000616  You can open this file in any text editor on any system.
+000617  Sorting, searching, and splitting all work on files like this.
+000618  Encoding is UTF-8, which is the default nearly everywhere today.
+000619  Feel free to edit, cut down, or paste this into your own tests.
+000620  A text file from 1990 still opens the same way one from today does.
+000621  The quick brown fox jumps over the lazy dog.
+000622  Plain text files store characters and nothing else.
+000623  This line exists so you can count lines while testing.
+000624  No formatting, no fonts, no hidden markup anywhere in here.
+000625  Every line ends with a standard newline character.
+000626  You can open this file in any text editor on any system.
+000627  Sorting, searching, and splitting all work on files like this.
+000628  Encoding is UTF-8, which is the default nearly everywhere today.
+000629  Feel free to edit, cut down, or paste this into your own tests.
+000630  A text file from 1990 still opens the same way one from today does.
+000631  The quick brown fox jumps over the lazy dog.
+000632  Plain text files store characters and nothing else.
+000633  This line exists so you can count lines while testing.
+000634  No formatting, no fonts, no hidden markup anywhere in here.
+000635  Every line ends with a standard newline character.
+000636  You can open this file in any text editor on any system.
+000637  Sorting, searching, and splitting all work on files like this.
+000638  Encoding is UTF-8, which is the default nearly everywhere today.
+000639  Feel free to edit, cut down, or paste this into your own tests.
+000640  A text file from 1990 still opens the same way one from today does.
+000641  The quick brown fox jumps over the lazy dog.
+000642  Plain text files store characters and nothing else.
+000643  This line exists so you can count lines while testing.
+000644  No formatting, no fonts, no hidden markup anywhere in here.
+000645  Every line ends with a standard newline character.
+000646  You can open this file in any text editor on any system.
+000647  Sorting, searching, and splitting all work on files like this.
+000648  Encoding is UTF-8, which is the default nearly everywhere today.
+000649  Feel free to edit, cut down, or paste this into your own tests.
+000650  A text file from 1990 still opens the same way one from today does.
+000651  The quick brown fox jumps over the lazy dog.
+000652  Plain text files store characters and nothing else.
+000653  This line exists so you can count lines while testing.
+000654  No formatting, no fonts, no hidden markup anywhere in here.
+000655  Every line ends with a standard newline character.
+000656  You can open this file in any text editor on any system.
+000657  Sorting, searching, and splitting all work on files like this.
+000658  Encoding is UTF-8, which is the default nearly everywhere today.
+000659  Feel free to edit, cut down, or paste this into your own tests.
+000660  A text file from 1990 still opens the same way one from today does.
+000661  The quick brown fox jumps over the lazy dog.
+000662  Plain text files store characters and nothing else.
+000663  This line exists so you can count lines while testing.
+000664  No formatting, no fonts, no hidden markup anywhere in here.
+000665  Every line ends with a standard newline character.
+000666  You can open this file in any text editor on any system.
+000667  Sorting, searching, and splitting all work on files like this.
+000668  Encoding is UTF-8, which is the default nearly everywhere today.
+000669  Feel free to edit, cut down, or paste this into your own tests.
+000670  A text file from 1990 still opens the same way one from today does.
+000671  The quick brown fox jumps over the lazy dog.
+000672  Plain text files store characters and nothing else.
+000673  This line exists so you can count lines while testing.
+000674  No formatting, no fonts, no hidden markup anywhere in here.
+000675  Every line ends with a standard newline character.
+000676  You can open this file in any text editor on any system.
+000677  Sorting, searching, and splitting all work on files like this.
+000678  Encoding is UTF-8, which is the default nearly everywhere today.
+000679  Feel free to edit, cut down, or paste this into your own tests.
+000680  A text file from 1990 still opens the same way one from today does.
+000681  The quick brown fox jumps over the lazy dog.
+000682  Plain text files store characters and nothing else.
+000683  This line exists so you can count lines while testing.
+000684  No formatting, no fonts, no hidden markup anywhere in here.
+000685  Every line ends with a standard newline character.
+000686  You can open this file in any text editor on any system.
+000687  Sorting, searching, and splitting all work on files like this.
+000688  Encoding is UTF-8, which is the default nearly everywhere today.
+000689  Feel free to edit, cut down, or paste this into your own tests.
+000690  A text file from 1990 still opens the same way one from today does.
+000691  The quick brown fox jumps over the lazy dog.
+000692  Plain text files store characters and nothing else.
+000693  This line exists so you can count lines while testing.
+000694  No formatting, no fonts, no hidden markup anywhere in here.
+000695  Every line ends with a standard newline character.
+000696  You can open this file in any text editor on any system.
+000697  Sorting, searching, and splitting all work on files like this.
+000698  Encoding is UTF-8, which is the default nearly everywhere today.
+000699  Feel free to edit, cut down, or paste this into your own tests.
+000700  A text file from 1990 still opens the same way one from today does.
+000701  The quick brown fox jumps over the lazy dog.
+000702  Plain text files store characters and nothing else.
+000703  This line exists so you can count lines while testing.
+000704  No formatting, no fonts, no hidden markup anywhere in here.
+000705  Every line ends with a standard newline character.
+000706  You can open this file in any text editor on any system.
+000707  Sorting, searching, and splitting all work on files like this.
+000708  Encoding is UTF-8, which is the default nearly everywhere today.
+000709  Feel free to edit, cut down, or paste this into your own tests.
+000710  A text file from 1990 still opens the same way one from today does.
+000711  The quick brown fox jumps over the lazy dog.
+000712  Plain text files store characters and nothing else.
+000713  This line exists so you can count lines while testing.
+000714  No formatting, no fonts, no hidden markup anywhere in here.
+000715  Every line ends with a standard newline character.
+000716  You can open this file in any text editor on any system.
+000717  Sorting, searching, and splitting all work on files like this.
+000718  Encoding is UTF-8, which is the default nearly everywhere today.
+000719  Feel free to edit, cut down, or paste this into your own tests.
+000720  A text file from 1990 still opens the same way one from today does.
+000721  The quick brown fox jumps over the lazy dog.
+000722  Plain text files store characters and nothing else.
+000723  This line exists so you can count lines while testing.
+000724  No formatting, no fonts, no hidden markup anywhere in here.
+000725  Every line ends with a standard newline character.
+000726  You can open this file in any text editor on any system.
+000727  Sorting, searching, and splitting all work on files like this.
+000728  Encoding is UTF-8, which is the default nearly everywhere today.
+000729  Feel free to edit, cut down, or paste this into your own tests.
+000730  A text file from 1990 still opens the same way one from today does.
+000731  The quick brown fox jumps over the lazy dog.
+000732  Plain text files store characters and nothing else.
+000733  This line exists so you can count lines while testing.
+000734  No formatting, no fonts, no hidden markup anywhere in here.
+000735  Every line ends with a standard newline character.
+000736  You can open this file in any text editor on any system.
+000737  Sorting, searching, and splitting all work on files like this.
+000738  Encoding is UTF-8, which is the default nearly everywhere today.
+000739  Feel free to edit, cut down, or paste this into your own tests.
+000740  A text file from 1990 still opens the same way one from today does.
+000741  The quick brown fox jumps over the lazy dog.
+000742  Plain text files store characters and nothing else.
+000743  This line exists so you can count lines while testing.
+000744  No formatting, no fonts, no hidden markup anywhere in here.
+000745  Every line ends with a standard newline character.
+000746  You can open this file in any text editor on any system.
+000747  Sorting, searching, and splitting all work on files like this.
+000748  Encoding is UTF-8, which is the default nearly everywhere today.
+000749  Feel free to edit, cut down, or paste this into your own tests.
+000750  A text file from 1990 still opens the same way one from today does.
+000751  The quick brown fox jumps over the lazy dog.
+000752  Plain text files store characters and nothing else.
+000753  This line exists so you can count lines while testing.
+000754  No formatting, no fonts, no hidden markup anywhere in here.
+000755  Every line ends with a standard newline character.
+000756  You can open this file in any text editor on any system.
+000757  Sorting, searching, and splitting all work on files like this.
+000758  Encoding is UTF-8, which is the default nearly everywhere today.
+000759  Feel free to edit, cut down, or paste this into your own tests.
+000760  A text file from 1990 still opens the same way one from today does.
+000761  The quick brown fox jumps over the lazy dog.
+000762  Plain text files store characters and nothing else.
+000763  This line exists so you can count lines while testing.
+000764  No formatting, no fonts, no hidden markup anywhere in here.
+000765  Every line ends with a standard newline character.
+000766  You can open this file in any text editor on any system.
+000767  Sorting, searching, and splitting all work on files like this.
+000768  Encoding is UTF-8, which is the default nearly everywhere today.
+000769  Feel free to edit, cut down, or paste this into your own tests.
+000770  A text file from 1990 still opens the same way one from today does.
+000771  The quick brown fox jumps over the lazy dog.
+000772  Plain text files store characters and nothing else.
+000773  This line exists so you can count lines while testing.
+000774  No formatting, no fonts, no hidden markup anywhere in here.
+000775  Every line ends with a standard newline character.
+000776  You can open this file in any text editor on any system.
+000777  Sorting, searching, and splitting all work on files like this.
+000778  Encoding is UTF-8, which is the default nearly everywhere today.
+000779  Feel free to edit, cut down, or paste this into your own tests.
+000780  A text file from 1990 still opens the same way one from today does.
+000781  The quick brown fox jumps over the lazy dog.
+000782  Plain text files store characters and nothing else.
+000783  This line exists so you can count lines while testing.
+000784  No formatting, no fonts, no hidden markup anywhere in here.
+000785  Every line ends with a standard newline character.
+000786  You can open this file in any text editor on any system.
+000787  Sorting, searching, and splitting all work on files like this.
+000788  Encoding is UTF-8, which is the default nearly everywhere today.
+000789  Feel free to edit, cut down, or paste this into your own tests.
+000790  A text file from 1990 still opens the same way one from today does.
+000791  The quick brown fox jumps over the lazy dog.
+000792  Plain text files store characters and nothing else.
+000793  This line exists so you can count lines while testing.
+000794  No formatting, no fonts, no hidden markup anywhere in here.
+000795  Every line ends with a standard newline character.
+000796  You can open this file in any text editor on any system.
+000797  Sorting, searching, and splitting all work on files like this.
+000798  Encoding is UTF-8, which is the default nearly everywhere today.
+000799  Feel free to edit, cut down, or paste this into your own tests.
+000800  A text file from 1990 still opens the same way one from today does.
+000801  The quick brown fox jumps over the lazy dog.
+000802  Plain text files store characters and nothing else.
+000803  This line exists so you can count lines while testing.
+000804  No formatting, no fonts, no hidden markup anywhere in here.
+000805  Every line ends with a standard newline character.
+000806  You can open this file in any text editor on any system.
+000807  Sorting, searching, and splitting all work on files like this.
+000808  Encoding is UTF-8, which is the default nearly everywhere today.
+000809  Feel free to edit, cut down, or paste this into your own tests.
+000810  A text file from 1990 still opens the same way one from today does.
+000811  The quick brown fox jumps over the lazy dog.
+000812  Plain text files store characters and nothing else.
+000813  This line exists so you can count lines while testing.
+000814  No formatting, no fonts, no hidden markup anywhere in here.
+000815  Every line ends with a standard newline character.
+000816  You can open this file in any text editor on any system.
+000817  Sorting, searching, and splitting all work on files like this.
+000818  Encoding is UTF-8, which is the default nearly everywhere today.
+000819  Feel free to edit, cut down, or paste this into your own tests.
+000820  A text file from 1990 still opens the same way one from today does.
+000821  The quick brown fox jumps over the lazy dog.
+000822  Plain text files store characters and nothing else.
+000823  This line exists so you can count lines while testing.
+000824  No formatting, no fonts, no hidden markup anywhere in here.
+000825  Every line ends with a standard newline character.
+000826  You can open this file in any text editor on any system.
+000827  Sorting, searching, and splitting all work on files like this.
+000828  Encoding is UTF-8, which is the default nearly everywhere today.
+000829  Feel free to edit, cut down, or paste this into your own tests.
+000830  A text file from 1990 still opens the same way one from today does.
+000831  The quick brown fox jumps over the lazy dog.
+000832  Plain text files store characters and nothing else.
+000833  This line exists so you can count lines while testing.
+000834  No formatting, no fonts, no hidden markup anywhere in here.
+000835  Every line ends with a standard newline character.
+000836  You can open this file in any text editor on any system.
+000837  Sorting, searching, and splitting all work on files like this.
+000838  Encoding is UTF-8, which is the default nearly everywhere today.
+000839  Feel free to edit, cut down, or paste this into your own tests.
+000840  A text file from 1990 still opens the same way one from today does.
+000841  The quick brown fox jumps over the lazy dog.
+000842  Plain text files store characters and nothing else.
+000843  This line exists so you can count lines while testing.
+000844  No formatting, no fonts, no hidden markup anywhere in here.
+000845  Every line ends with a standard newline character.
+000846  You can open this file in any text editor on any system.
+000847  Sorting, searching, and splitting all work on files like this.
+000848  Encoding is UTF-8, which is the default nearly everywhere today.
+000849  Feel free to edit, cut down, or paste this into your own tests.
+000850  A text file from 1990 still opens the same way one from today does.
+000851  The quick brown fox jumps over the lazy dog.
+000852  Plain text files store characters and nothing else.
+000853  This line exists so you can count lines while testing.
+000854  No formatting, no fonts, no hidden markup anywhere in here.
+000855  Every line ends with a standard newline character.
+000856  You can open this file in any text editor on any system.
+000857  Sorting, searching, and splitting all work on files like this.
+000858  Encoding is UTF-8, which is the default nearly everywhere today.
+000859  Feel free to edit, cut down, or paste this into your own tests.
+000860  A text file from 1990 still opens the same way one from today does.
+000861  The quick brown fox jumps over the lazy dog.
+000862  Plain text files store characters and nothing else.
+000863  This line exists so you can count lines while testing.
+000864  No formatting, no fonts, no hidden markup anywhere in here.
+000865  Every line ends with a standard newline character.
+000866  You can open this file in any text editor on any system.
+000867  Sorting, searching, and splitting all work on files like this.
+000868  Encoding is UTF-8, which is the default nearly everywhere today.
+000869  Feel free to edit, cut down, or paste this into your own tests.
+000870  A text file from 1990 still opens the same way one from today does.
+000871  The quick brown fox jumps over the lazy dog.
+000872  Plain text files store characters and nothing else.
+000873  This line exists so you can count lines while testing.
+000874  No formatting, no fonts, no hidden markup anywhere in here.
+000875  Every line ends with a standard newline character.
+000876  You can open this file in any text editor on any system.
+000877  Sorting, searching, and splitting all work on files like this.
+000878  Encoding is UTF-8, which is the default nearly everywhere today.
+000879  Feel free to edit, cut down, or paste this into your own tests.
+000880  A text file from 1990 still opens the same way one from today does.
+000881  The quick brown fox jumps over the lazy dog.
+000882  Plain text files store characters and nothing else.
+000883  This line exists so you can count lines while testing.
+000884  No formatting, no fonts, no hidden markup anywhere in here.
+000885  Every line ends with a standard newline character.
+000886  You can open this file in any text editor on any system.
+000887  Sorting, searching, and splitting all work on files like this.
+000888  Encoding is UTF-8, which is the default nearly everywhere today.
+000889  Feel free to edit, cut down, or paste this into your own tests.
+000890  A text file from 1990 still opens the same way one from today does.
+000891  The quick brown fox jumps over the lazy dog.
+000892  Plain text files store characters and nothing else.
+000893  This line exists so you can count lines while testing.
+000894  No formatting, no fonts, no hidden markup anywhere in here.
+000895  Every line ends with a standard newline character.
+000896  You can open this file in any text editor on any system.
+000897  Sorting, searching, and splitting all work on files like this.
+000898  Encoding is UTF-8, which is the default nearly everywhere today.
+000899  Feel free to edit, cut down, or paste this into your own tests.
+000900  A text file from 1990 still opens the same way one from today does.
+000901  The quick brown fox jumps over the lazy dog.
+000902  Plain text files store characters and nothing else.
+000903  This line exists so you can count lines while testing.
+000904  No formatting, no fonts, no hidden markup anywhere in here.
+000905  Every line ends with a standard newline character.
+000906  You can open this file in any text editor on any system.
+000907  Sorting, searching, and splitting all work on files like this.
+000908  Encoding is UTF-8, which is the default nearly everywhere today.
+000909  Feel free to edit, cut down, or paste this into your own tests.
+000910  A text file from 1990 still opens the same way one from today does.
+000911  The quick brown fox jumps over the lazy dog.
+000912  Plain text files store characters and nothing else.
+000913  This line exists so you can count lines while testing.
+000914  No formatting, no fonts, no hidden markup anywhere in here.
+000915  Every line ends with a standard newline character.
+000916  You can open this file in any text editor on any system.
+000917  Sorting, searching, and splitting all work on files like this.
+000918  Encoding is UTF-8, which is the default nearly everywhere today.
+000919  Feel free to edit, cut down, or paste this into your own tests.
+000920  A text file from 1990 still opens the same way one from today does.
+000921  The quick brown fox jumps over the lazy dog.
+000922  Plain text files store characters and nothing else.
+000923  This line exists so you can count lines while testing.
+000924  No formatting, no fonts, no hidden markup anywhere in here.
+000925  Every line ends with a standard newline character.
+000926  You can open this file in any text editor on any system.
+000927  Sorting, searching, and splitting all work on files like this.
+000928  Encoding is UTF-8, which is the default nearly everywhere today.
+000929  Feel free to edit, cut down, or paste this into your own tests.
+000930  A text file from 1990 still opens the same way one from today does.
+000931  The quick brown fox jumps over the lazy dog.
+000932  Plain text files store characters and nothing else.
+000933  This line exists so you can count lines while testing.
+000934  No formatting, no fonts, no hidden markup anywhere in here.
+000935  Every line ends with a standard newline character.
+000936  You can open this file in any text editor on any system.
+000937  Sorting, searching, and splitting all work on files like this.
+000938  Encoding is UTF-8, which is the default nearly everywhere today.
+000939  Feel free to edit, cut down, or paste this into your own tests.
+000940  A text file from 1990 still opens the same way one from today does.
+000941  The quick brown fox jumps over the lazy dog.
+000942  Plain text files store characters and nothing else.
+000943  This line exists so you can count lines while testing.
+000944  No formatting, no fonts, no hidden markup anywhere in here.
+000945  Every line ends with a standard newline character.
+000946  You can open this file in any text editor on any system.
+000947  Sorting, searching, and splitting all work on files like this.
+000948  Encoding is UTF-8, which is the default nearly everywhere today.
+000949  Feel free to edit, cut down, or paste this into your own tests.
+000950  A text file from 1990 still opens the same way one from today does.
+000951  The quick brown fox jumps over the lazy dog.
+000952  Plain text files store characters and nothing else.
+000953  This line exists so you can count lines while testing.
+000954  No formatting, no fonts, no hidden markup anywhere in here.
+000955  Every line ends with a standard newline character.
+000956  You can open this file in any text editor on any system.
+000957  Sorting, searching, and splitting all work on files like this.
+000958  Encoding is UTF-8, which is the default nearly everywhere today.
+000959  Feel free to edit, cut down, or paste this into your own tests.
+000960  A text file from 1990 still opens the same way one from today does.
+000961  The quick brown fox jumps over the lazy dog.
+000962  Plain text files store characters and nothing else.
+000963  This line exists so you can count lines while testing.
+000964  No formatting, no fonts, no hidden markup anywhere in here.
+000965  Every line ends with a standard newline character.
+000966  You can open this file in any text editor on any system.
+000967  Sorting, searching, and splitting all work on files like this.
+000968  Encoding is UTF-8, which is the default nearly everywhere today.
+000969  Feel free to edit, cut down, or paste this into your own tests.
+000970  A text file from 1990 still opens the same way one from today does.
+000971  The quick brown fox jumps over the lazy dog.
+000972  Plain text files store characters and nothing else.
+000973  This line exists so you can count lines while testing.
+000974  No formatting, no fonts, no hidden markup anywhere in here.
+000975  Every line ends with a standard newline character.
+000976  You can open this file in any text editor on any system.
+000977  Sorting, searching, and splitting all work on files like this.
+000978  Encoding is UTF-8, which is the default nearly everywhere today.
+000979  Feel free to edit, cut down, or paste this into your own tests.
+000980  A text file from 1990 still opens the same way one from today does.
+000981  The quick brown fox jumps over the lazy dog.
+000982  Plain text files store characters and nothing else.
+000983  This line exists so you can count lines while testing.
+000984  No formatting, no fonts, no hidden markup anywhere in here.
+000985  Every line ends with a standard newline character.
+000986  You can open this file in any text editor on any system.
+000987  Sorting, searching, and splitting all work on files like this.
+000988  Encoding is UTF-8, which is the default nearly everywhere today.
+000989  Feel free to edit, cut down, or paste this into your own tests.
+000990  A text file from 1990 still opens the same way one from today does.
+000991  The quick brown fox jumps over the lazy dog.
+000992  Plain text files store characters and nothing else.
+000993  This line exists so you can count lines while testing.
+000994  No formatting, no fonts, no hidden markup anywhere in here.
+000995  Every line ends with a standard newline character.
+000996  You can open this file in any text editor on any system.
+000997  Sorting, searching, and splitting all work on files like this.
+000998  Encoding is UTF-8, which is the default nearly everywhere today.
+000999  Feel free to edit, cut down, or paste this into your own tests.
+001000  A text file from 1990 still opens the same way one from today does.
+001001  The quick brown fox jumps over the lazy dog.
+001002  Plain text files store characters and nothing else.
+001003  This line exists so you can count lines while testing.
+001004  No formatting, no fonts, no hidden markup anywhere in here.
+001005  Every line ends with a standard newline character.
+001006  You can open this file in any text editor on any system.
+001007  Sorting, searching, and splitting all work on files like this.
+001008  Encoding is UTF-8, which is the default nearly everywhere today.
+001009  Feel free to edit, cut down, or paste this into your own tests.
+001010  A text file from 1990 still opens the same way one from today does.
+001011  The quick brown fox jumps over the lazy dog.
+001012  Plain text files store characters and nothing else.
+001013  This line exists so you can count lines while testing.
+001014  No formatting, no fonts, no hidden markup anywhere in here.
+001015  Every line ends with a standard newline character.
+001016  You can open this file in any text editor on any system.
+001017  Sorting, searching, and splitting all work on files like this.
+001018  Encoding is UTF-8, which is the default nearly everywhere today.
+001019  Feel free to edit, cut down, or paste this into your own tests.
+001020  A text file from 1990 still opens the same way one from today does.
+001021  The quick brown fox jumps over the lazy dog.
+001022  Plain text files store characters and nothing else.
+001023  This line exists so you can count lines while testing.
+001024  No formatting, no fonts, no hidden markup anywhere in here.
+001025  Every line ends with a standard newline character.
+001026  You can open this file in any text editor on any system.
+001027  Sorting, searching, and splitting all work on files like this.
+001028  Encoding is UTF-8, which is the default nearly everywhere today.
+001029  Feel free to edit, cut down, or paste this into your own tests.
+001030  A text file from 1990 still opens the same way one from today does.
+001031  The quick brown fox jumps over the lazy dog.
+001032  Plain text files store characters and nothing else.
+001033  This line exists so you can count lines while testing.
+001034  No formatting, no fonts, no hidden markup anywhere in here.
+001035  Every line ends with a standard newline character.
+001036  You can open this file in any text editor on any system.
+001037  Sorting, searching, and splitting all work on files like this.
+001038  Encoding is UTF-8, which is the default nearly everywhere today.
+001039  Feel free to edit, cut down, or paste this into your own tests.
+001040  A text file from 1990 still opens the same way one from today does.
+001041  The quick brown fox jumps over the lazy dog.
+001042  Plain text files store characters and nothing else.
+001043  This line exists so you can count lines while testing.
+001044  No formatting, no fonts, no hidden markup anywhere in here.
+001045  Every line ends with a standard newline character.
+001046  You can open this file in any text editor on any system.
+001047  Sorting, searching, and splitting all work on files like this.
+001048  Encoding is UTF-8, which is the default nearly everywhere today.
+001049  Feel free to edit, cut down, or paste this into your own tests.
+001050  A text file from 1990 still opens the same way one from today does.
+001051  The quick brown fox jumps over the lazy dog.
+001052  Plain text files store characters and nothing else.
+001053  This line exists so you can count lines while testing.
+001054  No formatting, no fonts, no hidden markup anywhere in here.
+001055  Every line ends with a standard newline character.
+001056  You can open this file in any text editor on any system.
+001057  Sorting, searching, and splitting all work on files like this.
+001058  Encoding is UTF-8, which is the default nearly everywhere today.
+001059  Feel free to edit, cut down, or paste this into your own tests.
+001060  A text file from 1990 still opens the same way one from today does.
+001061  The quick brown fox jumps over the lazy dog.
+001062  Plain text files store characters and nothing else.
+001063  This line exists so you can count lines while testing.
+001064  No formatting, no fonts, no hidden markup anywhere in here.
+001065  Every line ends with a standard newline character.
+001066  You can open this file in any text editor on any system.
+001067  Sorting, searching, and splitting all work on files like this.
+001068  Encoding is UTF-8, which is the default nearly everywhere today.
+001069  Feel free to edit, cut down, or paste this into your own tests.
+001070  A text file from 1990 still opens the same way one from today does.
+001071  The quick brown fox jumps over the lazy dog.
+001072  Plain text files store characters and nothing else.
+001073  This line exists so you can count lines while testing.
+001074  No formatting, no fonts, no hidden markup anywhere in here.
+001075  Every line ends with a standard newline character.
+001076  You can open this file in any text editor on any system.
+001077  Sorting, searching, and splitting all work on files like this.
+001078  Encoding is UTF-8, which is the default nearly everywhere today.
+001079  Feel free to edit, cut down, or paste this into your own tests.
+001080  A text file from 1990 still opens the same way one from today does.
+001081  The quick brown fox jumps over the lazy dog.
+001082  Plain text files store characters and nothing else.
+001083  This line exists so you can count lines while testing.
+001084  No formatting, no fonts, no hidden markup anywhere in here.
+001085  Every line ends with a standard newline character.
+001086  You can open this file in any text editor on any system.
+001087  Sorting, searching, and splitting all work on files like this.
+001088  Encoding is UTF-8, which is the default nearly everywhere today.
+001089  Feel free to edit, cut down, or paste this into your own tests.
+001090  A text file from 1990 still opens the same way one from today does.
+001091  The quick brown fox jumps over the lazy dog.
+001092  Plain text files store characters and nothing else.
+001093  This line exists so you can count lines while testing.
+001094  No formatting, no fonts, no hidden markup anywhere in here.
+001095  Every line ends with a standard newline character.
+001096  You can open this file in any text editor on any system.
+001097  Sorting, searching, and splitting all work on files like this.
+001098  Encoding is UTF-8, which is the default nearly everywhere today.
+001099  Feel free to edit, cut down, or paste this into your own tests.
+001100  A text file from 1990 still opens the same way one from today does.
+001101  The quick brown fox jumps over the lazy dog.
+001102  Plain text files store characters and nothing else.
+001103  This line exists so you can count lines while testing.
+001104  No formatting, no fonts, no hidden markup anywhere in here.
+001105  Every line ends with a standard newline character.
+001106  You can open this file in any text editor on any system.
+001107  Sorting, searching, and splitting all work on files like this.
+001108  Encoding is UTF-8, which is the default nearly everywhere today.
+001109  Feel free to edit, cut down, or paste this into your own tests.
+001110  A text file from 1990 still opens the same way one from today does.
+001111  The quick brown fox jumps over the lazy dog.
+001112  Plain text files store characters and nothing else.
+001113  This line exists so you can count lines while testing.
+001114  No formatting, no fonts, no hidden markup anywhere in here.
+001115  Every line ends with a standard newline character.
+001116  You can open this file in any text editor on any system.
+001117  Sorting, searching, and splitting all work on files like this.
+001118  Encoding is UTF-8, which is the default nearly everywhere today.
+001119  Feel free to edit, cut down, or paste this into your own tests.
+001120  A text file from 1990 still opens the same way one from today does.
+001121  The quick brown fox jumps over the lazy dog.
+001122  Plain text files store characters and nothing else.
+001123  This line exists so you can count lines while testing.
+001124  No formatting, no fonts, no hidden markup anywhere in here.
+001125  Every line ends with a standard newline character.
+001126  You can open this file in any text editor on any system.
+001127  Sorting, searching, and splitting all work on files like this.
+001128  Encoding is UTF-8, which is the default nearly everywhere today.
+001129  Feel free to edit, cut down, or paste this into your own tests.
+001130  A text file from 1990 still opens the same way one from today does.
+001131  The quick brown fox jumps over the lazy dog.
+001132  Plain text files store characters and nothing else.
+001133  This line exists so you can count lines while testing.
+001134  No formatting, no fonts, no hidden markup anywhere in here.
+001135  Every line ends with a standard newline character.
+001136  You can open this file in any text editor on any system.
+001137  Sorting, searching, and splitting all work on files like this.
+001138  Encoding is UTF-8, which is the default nearly everywhere today.
+001139  Feel free to edit, cut down, or paste this into your own tests.
+001140  A text file from 1990 still opens the same way one from today does.
+001141  The quick brown fox jumps over the lazy dog.
+001142  Plain text files store characters and nothing else.
+001143  This line exists so you can count lines while testing.
+001144  No formatting, no fonts, no hidden markup anywhere in here.
+001145  Every line ends with a standard newline character.
+001146  You can open this file in any text editor on any system.
+001147  Sorting, searching, and splitting all work on files like this.
+001148  Encoding is UTF-8, which is the default nearly everywhere today.
+001149  Feel free to edit, cut down, or paste this into your own tests.
+001150  A text file from 1990 still opens the same way one from today does.
+001151  The quick brown fox jumps over the lazy dog.
+001152  Plain text files store characters and nothing else.
+001153  This line exists so you can count lines while testing.
+001154  No formatting, no fonts, no hidden markup anywhere in here.
+001155  Every line ends with a standard newline character.
+001156  You can open this file in any text editor on any system.
+001157  Sorting, searching, and splitting all work on files like this.
+001158  Encoding is UTF-8, which is the default nearly everywhere today.
+001159  Feel free to edit, cut down, or paste this into your own tests.
+001160  A text file from 1990 still opens the same way one from today does.
+001161  The quick brown fox jumps over the lazy dog.
+001162  Plain text files store characters and nothing else.
+001163  This line exists so you can count lines while testing.
+001164  No formatting, no fonts, no hidden markup anywhere in here.
+001165  Every line ends with a standard newline character.
+001166  You can open this file in any text editor on any system.
+001167  Sorting, searching, and splitting all work on files like this.
+001168  Encoding is UTF-8, which is the default nearly everywhere today.
+001169  Feel free to edit, cut down, or paste this into your own tests.
+001170  A text file from 1990 still opens the same way one from today does.
+001171  The quick brown fox jumps over the lazy dog.
+001172  Plain text files store characters and nothing else.
+001173  This line exists so you can count lines while testing.
+001174  No formatting, no fonts, no hidden markup anywhere in here.
+001175  Every line ends with a standard newline character.
+001176  You can open this file in any text editor on any system.
+001177  Sorting, searching, and splitting all work on files like this.
+001178  Encoding is UTF-8, which is the default nearly everywhere today.
+001179  Feel free to edit, cut down, or paste this into your own tests.
+001180  A text file from 1990 still opens the same way one from today does.
+001181  The quick brown fox jumps over the lazy dog.
+001182  Plain text files store characters and nothing else.
+001183  This line exists so you can count lines while testing.
+001184  No formatting, no fonts, no hidden markup anywhere in here.
+001185  Every line ends with a standard newline character.
+001186  You can open this file in any text editor on any system.
+001187  Sorting, searching, and splitting all work on files like this.
+001188  Encoding is UTF-8, which is the default nearly everywhere today.
+001189  Feel free to edit, cut down, or paste this into your own tests.
+001190  A text file from 1990 still opens the same way one from today does.
+001191  The quick brown fox jumps over the lazy dog.
+001192  Plain text files store characters and nothing else.
+001193  This line exists so you can count lines while testing.
+001194  No formatting, no fonts, no hidden markup anywhere in here.
+001195  Every line ends with a standard newline character.
+001196  You can open this file in any text editor on any system.
+001197  Sorting, searching, and splitting all work on files like this.
+001198  Encoding is UTF-8, which is the default nearly everywhere today.
+001199  Feel free to edit, cut down, or paste this into your own tests.
+001200  A text file from 1990 still opens the same way one from today does.
+001201  The quick brown fox jumps over the lazy dog.
+001202  Plain text files store characters and nothing else.
+001203  This line exists so you can count lines while testing.
+001204  No formatting, no fonts, no hidden markup anywhere in here.
+001205  Every line ends with a standard newline character.
+001206  You can open this file in any text editor on any system.
+001207  Sorting, searching, and splitting all work on files like this.
+001208  Encoding is UTF-8, which is the default nearly everywhere today.
+001209  Feel free to edit, cut down, or paste this into your own tests.
+001210  A text file from 1990 still opens the same way one from today does.
+001211  The quick brown fox jumps over the lazy dog.
+001212  Plain text files store characters and nothing else.
+001213  This line exists so you can count lines while testing.
+001214  No formatting, no fonts, no hidden markup anywhere in here.
+001215  Every line ends with a standard newline character.
+001216  You can open this file in any text editor on any system.
+001217  Sorting, searching, and splitting all work on files like this.
+001218  Encoding is UTF-8, which is the default nearly everywhere today.
+001219  Feel free to edit, cut down, or paste this into your own tests.
+001220  A text file from 1990 still opens the same way one from today does.
+001221  The quick brown fox jumps over the lazy dog.
+001222  Plain text files store characters and nothing else.
+001223  This line exists so you can count lines while testing.
+001224  No formatting, no fonts, no hidden markup anywhere in here.
+001225  Every line ends with a standard newline character.
+001226  You can open this file in any text editor on any system.
+001227  Sorting, searching, and splitting all work on files like this.
+001228  Encoding is UTF-8, which is the default nearly everywhere today.
+001229  Feel free to edit, cut down, or paste this into your own tests.
+001230  A text file from 1990 still opens the same way one from today does.
+001231  The quick brown fox jumps over the lazy dog.
+001232  Plain text files store characters and nothing else.
+001233  This line exists so you can count lines while testing.
+001234  No formatting, no fonts, no hidden markup anywhere in here.
+001235  Every line ends with a standard newline character.
+001236  You can open this file in any text editor on any system.
+001237  Sorting, searching, and splitting all work on files like this.
+001238  Encoding is UTF-8, which is the default nearly everywhere today.
+001239  Feel free to edit, cut down, or paste this into your own tests.
+001240  A text file from 1990 still opens the same way one from today does.
+001241  The quick brown fox jumps over the lazy dog.
+001242  Plain text files store characters and nothing else.
+001243  This line exists so you can count lines while testing.
+001244  No formatting, no fonts, no hidden markup anywhere in here.
+001245  Every line ends with a standard newline character.
+001246  You can open this file in any text editor on any system.
+001247  Sorting, searching, and splitting all work on files like this.
+001248  Encoding is UTF-8, which is the default nearly everywhere today.
+001249  Feel free to edit, cut down, or paste this into your own tests.
+001250  A text file from 1990 still opens the same way one from today does.
+001251  The quick brown fox jumps over the lazy dog.
+001252  Plain text files store characters and nothing else.
+001253  This line exists so you can count lines while testing.
+001254  No formatting, no fonts, no hidden markup anywhere in here.
+001255  Every line ends with a standard newline character.
+001256  You can open this file in any text editor on any system.
+001257  Sorting, searching, and splitting all work on files like this.
+001258  Encoding is UTF-8, which is the default nearly everywhere today.
+001259  Feel free to edit, cut down, or paste this into your own tests.
+001260  A text file from 1990 still opens the same way one from today does.
+001261  The quick brown fox jumps over the lazy dog.
+001262  Plain text files store characters and nothing else.
+001263  This line exists so you can count lines while testing.
+001264  No formatting, no fonts, no hidden markup anywhere in here.
+001265  Every line ends with a standard newline character.
+001266  You can open this file in any text editor on any system.
+001267  Sorting, searching, and splitting all work on files like this.
+001268  Encoding is UTF-8, which is the default nearly everywhere today.
+001269  Feel free to edit, cut down, or paste this into your own tests.
+001270  A text file from 1990 still opens the same way one from today does.
+001271  The quick brown fox jumps over the lazy dog.
+001272  Plain text files store characters and nothing else.
+001273  This line exists so you can count lines while testing.
+001274  No formatting, no fonts, no hidden markup anywhere in here.
+001275  Every line ends with a standard newline character.
+001276  You can open this file in any text editor on any system.
+001277  Sorting, searching, and splitting all work on files like this.
+001278  Encoding is UTF-8, which is the default nearly everywhere today.
+001279  Feel free to edit, cut down, or paste this into your own tests.
+001280  A text file from 1990 still opens the same way one from today does.
+001281  The quick brown fox jumps over the lazy dog.
+001282  Plain text files store characters and nothing else.
+001283  This line exists so you can count lines while testing.
+001284  No formatting, no fonts, no hidden markup anywhere in here.
+001285  Every line ends with a standard newline character.
+001286  You can open this file in any text editor on any system.
+001287  Sorting, searching, and splitting all work on files like this.
+001288  Encoding is UTF-8, which is the default nearly everywhere today.
+001289  Feel free to edit, cut down, or paste this into your own tests.
+001290  A text file from 1990 still opens the same way one from today does.
+001291  The quick brown fox jumps over the lazy dog.
+001292  Plain text files store characters and nothing else.
+001293  This line exists so you can count lines while testing.
+001294  No formatting, no fonts, no hidden markup anywhere in here.
+001295  Every line ends with a standard newline character.
+001296  You can open this file in any text editor on any system.
+001297  Sorting, searching, and splitting all work on files like this.
+001298  Encoding is UTF-8, which is the default nearly everywhere today.
+001299  Feel free to edit, cut down, or paste this into your own tests.
+001300  A text file from 1990 still opens the same way one from today does.
+001301  The quick brown fox jumps over the lazy dog.
+001302  Plain text files store characters and nothing else.
+001303  This line exists so you can count lines while testing.
+001304  No formatting, no fonts, no hidden markup anywhere in here.
+001305  Every line ends with a standard newline character.
+001306  You can open this file in any text editor on any system.
+001307  Sorting, searching, and splitting all work on files like this.
+001308  Encoding is UTF-8, which is the default nearly everywhere today.
+001309  Feel free to edit, cut down, or paste this into your own tests.
+001310  A text file from 1990 still opens the same way one from today does.
+001311  The quick brown fox jumps over the lazy dog.
+001312  Plain text files store characters and nothing else.
+001313  This line exists so you can count lines while testing.
+001314  No formatting, no fonts, no hidden markup anywhere in here.
+001315  Every line ends with a standard newline character.
+001316  You can open this file in any text editor on any system.
+001317  Sorting, searching, and splitting all work on files like this.
+001318  Encoding is UTF-8, which is the default nearly everywhere today.
+001319  Feel free to edit, cut down, or paste this into your own tests.
+001320  A text file from 1990 still opens the same way one from today does.
+001321  The quick brown fox jumps over the lazy dog.
+001322  Plain text files store characters and nothing else.
+001323  This line exists so you can count lines while testing.
+001324  No formatting, no fonts, no hidden markup anywhere in here.
+001325  Every line ends with a standard newline character.
+001326  You can open this file in any text editor on any system.
+001327  Sorting, searching, and splitting all work on files like this.
+001328  Encoding is UTF-8, which is the default nearly everywhere today.
+001329  Feel free to edit, cut down, or paste this into your own tests.
+001330  A text file from 1990 still opens the same way one from today does.
+001331  The quick brown fox jumps over the lazy dog.
+001332  Plain text files store characters and nothing else.
+001333  This line exists so you can count lines while testing.
+001334  No formatting, no fonts, no hidden markup anywhere in here.
+001335  Every line ends with a standard newline character.
+001336  You can open this file in any text editor on any system.
+001337  Sorting, searching, and splitting all work on files like this.
+001338  Encoding is UTF-8, which is the default nearly everywhere today.
+001339  Feel free to edit, cut down, or paste this into your own tests.
+001340  A text file from 1990 still opens the same way one from today does.
+001341  The quick brown fox jumps over the lazy dog.
+001342  Plain text files store characters and nothing else.
+001343  This line exists so you can count lines while testing.
+001344  No formatting, no fonts, no hidden markup anywhere in here.
+001345  Every line ends with a standard newline character.
+001346  You can open this file in any text editor on any system.
+001347  Sorting, searching, and splitting all work on files like this.
+001348  Encoding is UTF-8, which is the default nearly everywhere today.
+001349  Feel free to edit, cut down, or paste this into your own tests.
+001350  A text file from 1990 still opens the same way one from today does.
+001351  The quick brown fox jumps over the lazy dog.
+001352  Plain text files store characters and nothing else.
+001353  This line exists so you can count lines while testing.
+001354  No formatting, no fonts, no hidden markup anywhere in here.
+001355  Every line ends with a standard newline character.
+001356  You can open this file in any text editor on any system.
+001357  Sorting, searching, and splitting all work on files like this.
+001358  Encoding is UTF-8, which is the default nearly everywhere today.
+001359  Feel free to edit, cut down, or paste this into your own tests.
+001360  A text file from 1990 still opens the same way one from today does.
+001361  The quick brown fox jumps over the lazy dog.
+001362  Plain text files store characters and nothing else.
+001363  This line exists so you can count lines while testing.
+001364  No formatting, no fonts, no hidden markup anywhere in here.
+001365  Every line ends with a standard newline character.
+001366  You can open this file in any text editor on any system.
+001367  Sorting, searching, and splitting all work on files like this.
+001368  Encoding is UTF-8, which is the default nearly everywhere today.
+001369  Feel free to edit, cut down, or paste this into your own tests.
+001370  A text file from 1990 still opens the same way one from today does.
+001371  The quick brown fox jumps over the lazy dog.
+001372  Plain text files store characters and nothing else.
+001373  This line exists so you can count lines while testing.
+001374  No formatting, no fonts, no hidden markup anywhere in here.
+001375  Every line ends with a standard newline character.
+001376  You can open this file in any text editor on any system.
+001377  Sorting, searching, and splitting all work on files like this.
+001378  Encoding is UTF-8, which is the default nearly everywhere today.
+001379  Feel free to edit, cut down, or paste this into your own tests.
+001380  A text file from 1990 still opens the same way one from today does.
+001381  The quick brown fox jumps over the lazy dog.
+001382  Plain text files store characters and nothing else.
+001383  This line exists so you can count lines while testing.
+001384  No formatting, no fonts, no hidden markup anywhere in here.
+001385  Every line ends with a standard newline character.
+001386  You can open this file in any text editor on any system.
+001387  Sorting, searching, and splitting all work on files like this.
+001388  Encoding is UTF-8, which is the default nearly everywhere today.
+001389  Feel free to edit, cut down, or paste this into your own tests.
+001390  A text file from 1990 still opens the same way one from today does.
+001391  The quick brown fox jumps over the lazy dog.
+001392  Plain text files store characters and nothing else.
+001393  This line exists so you can count lines while testing.
+001394  No formatting, no fonts, no hidden markup anywhere in here.
+001395  Every line ends with a standard newline character.
+001396  You can open this file in any text editor on any system.
+001397  Sorting, searching, and splitting all work on files like this.
+001398  Encoding is UTF-8, which is the default nearly everywhere today.
+001399  Feel free to edit, cut down, or paste this into your own tests.
+001400  A text file from 1990 still opens the same way one from today does.
+001401  The quick brown fox jumps over the lazy dog.
+001402  Plain text files store characters and nothing else.
+001403  This line exists so you can count lines while testing.
+001404  No formatting, no fonts, no hidden markup anywhere in here.
+001405  Every line ends with a standard newline character.
+001406  You can open this file in any text editor on any system.
+001407  Sorting, searching, and splitting all work on files like this.
+001408  Encoding is UTF-8, which is the default nearly everywhere today.
+001409  Feel free to edit, cut down, or paste this into your own tests.
+001410  A text file from 1990 still opens the same way one from today does.
+001411  The quick brown fox jumps over the lazy dog.
+001412  Plain text files store characters and nothing else.
+001413  This line exists so you can count lines while testing.
+001414  No formatting, no fonts, no hidden markup anywhere in here.
+001415  Every line ends with a standard newline character.
+001416  You can open this file in any text editor on any system.
+001417  Sorting, searching, and splitting all work on files like this.
+001418  Encoding is UTF-8, which is the default nearly everywhere today.
+001419  Feel free to edit, cut down, or paste this into your own tests.
+001420  A text file from 1990 still opens the same way one from today does.
+001421  The quick brown fox jumps over the lazy dog.
+001422  Plain text files store characters and nothing else.
+001423  This line exists so you can count lines while testing.
+001424  No formatting, no fonts, no hidden markup anywhere in here.
+001425  Every line ends with a standard newline character.
+001426  You can open this file in any text editor on any system.
+001427  Sorting, searching, and splitting all work on files like this.
+001428  Encoding is UTF-8, which is the default nearly everywhere today.
+001429  Feel free to edit, cut down, or paste this into your own tests.
+001430  A text file from 1990 still opens the same way one from today does.
+001431  The quick brown fox jumps over the lazy dog.
+001432  Plain text files store characters and nothing else.
+001433  This line exists so you can count lines while testing.
+001434  No formatting, no fonts, no hidden markup anywhere in here.
+001435  Every line ends with a standard newline character.
+001436  You can open this file in any text editor on any system.
+001437  Sorting, searching, and splitting all work on files like this.
+001438  Encoding is UTF-8, which is the default nearly everywhere today.
+001439  Feel free to edit, cut down, or paste this into your own tests.
+001440  A text file from 1990 still opens the same way one from today does.
+001441  The quick brown fox jumps over the lazy dog.
+001442  Plain text files store characters and nothing else.
+001443  This line exists so you can count lines while testing.
+001444  No formatting, no fonts, no hidden markup anywhere in here.
+001445  Every line ends with a standard newline character.
+001446  You can open this file in any text editor on any system.
+001447  Sorting, searching, and splitting all work on files like this.
+001448  Encoding is UTF-8, which is the default nearly everywhere today.
+001449  Feel free to edit, cut down, or paste this into your own tests.
+001450  A text file from 1990 still opens the same way one from today does.
+001451  The quick brown fox jumps over the lazy dog.
+001452  Plain text files store characters and nothing else.
+001453  This line exists so you can count lines while testing.
+001454  No formatting, no fonts, no hidden markup anywhere in here.
+001455  Every line ends with a standard newline character.
+001456  You can open this file in any text editor on any system.
+001457  Sorting, searching, and splitting all work on files like this.
+001458  Encoding is UTF-8, which is the default nearly everywhere today.
+001459  Feel free to edit, cut down, or paste this into your own tests.
+001460  A text file from 1990 still opens the same way one from today does.
+001461  The quick brown fox jumps over the lazy dog.
+001462  Plain text files store characters and nothing else.
+001463  This line exists so you can count lines while testing.
+001464  No formatting, no fonts, no hidden markup anywhere in here.
+001465  Every line ends with a standard newline character.
+001466  You can open this file in any text editor on any system.
+001467  Sorting, searching, and splitting all work on files like this.
+001468  Encoding is UTF-8, which is the default nearly everywhere today.
+001469  Feel free to edit, cut down, or paste this into your own tests.
+001470  A text file from 1990 still opens the same way one from today does.
+001471  The quick brown fox jumps over the lazy dog.
+001472  Plain text files store characters and nothing else.
+001473  This line exists so you can count lines while testing.
+001474  No formatting, no fonts, no hidden markup anywhere in here.
+001475  Every line ends with a standard newline character.
+001476  You can open this file in any text editor on any system.
+001477  Sorting, searching, and splitting all work on files like this.
+001478  Encoding is UTF-8, which is the default nearly everywhere today.
+001479  Feel free to edit, cut down, or paste this into your own tests.
+001480  A text file from 1990 still opens the same way one from today does.
+001481  The quick brown fox jumps over the lazy dog.
+001482  Plain text files store characters and nothing else.
+001483  This line exists so you can count lines while testing.
+001484  No formatting, no fonts, no hidden markup anywhere in here.
+001485  Every line ends with a standard newline character.
+001486  You can open this file in any text editor on any system.
+001487  Sorting, searching, and splitting all work on files like this.
+001488  Encoding is UTF-8, which is the default nearly everywhere today.
+001489  Feel free to edit, cut down, or paste this into your own tests.
+001490  A text file from 1990 still opens the same way one from today does.
+001491  The quick brown fox jumps over the lazy dog.
+001492  Plain text files store characters and nothing else.
+001493  This line exists so you can count lines while testing.
+001494  No formatting, no fonts, no hidden markup anywhere in here.
+001495  Every line ends with a standard newline character.
+001496  You can open this file in any text editor on any system.
+001497  Sorting, searching, and splitting all work on files like this.
+001498  Encoding is UTF-8, which is the default nearly everywhere today.
+001499  Feel free to edit, cut down, or paste this into your own tests.
+001500  A text file from 1990 still opens the same way one from today does.
+001501  The quick brown fox jumps over the lazy dog.
+001502  Plain text files store characters and nothing else.
+001503  This line exists so you can count lines while testing.
+001504  No formatting, no fonts, no hidden markup anywhere in here.
+001505  Every line ends with a standard newline character.
+001506  You can open this file in any text editor on any system.
+001507  Sorting, searching, and splitting all work on files like this.
+001508  Encoding is UTF-8, which is the default nearly everywhere today.
+001509  Feel free to edit, cut down, or paste this into your own tests.
+001510  A text file from 1990 still opens the same way one from today does.
+001511  The quick brown fox jumps over the lazy dog.
+001512  Plain text files store characters and nothing else.
+001513  This line exists so you can count lines while testing.
+001514  No formatting, no fonts, no hidden markup anywhere in here.
+001515  Every line ends with a standard newline character.
+001516  You can open this file in any text editor on any system.
+001517  Sorting, searching, and splitting all work on files like this.
+001518  Encoding is UTF-8, which is the default nearly everywhere today.
+001519  Feel free to edit, cut down, or paste this into your own tests.
+001520  A text file from 1990 still opens the same way one from today does.
+001521  The quick brown fox jumps over the lazy dog.
+001522  Plain text files store characters and nothing else.
+001523  This line exists so you can count lines while testing.
+001524  No formatting, no fonts, no hidden markup anywhere in here.
+001525  Every line ends with a standard newline character.
+001526  You can open this file in any text editor on any system.
+001527  Sorting, searching, and splitting all work on files like this.
+001528  Encoding is UTF-8, which is the default nearly everywhere today.
+001529  Feel free to edit, cut down, or paste this into your own tests.
+001530  A text file from 1990 still opens the same way one from today does.
+001531  The quick brown fox jumps over the lazy dog.
+001532  Plain text files store characters and nothing else.
+001533  This line exists so you can count lines while testing.
+001534  No formatting, no fonts, no hidden markup anywhere in here.
+001535  Every line ends with a standard newline character.
+001536  You can open this file in any text editor on any system.
+001537  Sorting, searching, and splitting all work on files like this.
+001538  Encoding is UTF-8, which is the default nearly everywhere today.
+001539  Feel free to edit, cut down, or paste this into your own tests.
+001540  A text file from 1990 still opens the same way one from today does.
+001541  The quick brown fox jumps over the lazy dog.
+001542  Plain text files store characters and nothing else.
+001543  This line exists so you can count lines while testing.
+001544  No formatting, no fonts, no hidden markup anywhere in here.
+001545  Every line ends with a standard newline character.
+001546  You can open this file in any text editor on any system.
+001547  Sorting, searching, and splitting all work on files like this.
+001548  Encoding is UTF-8, which is the default nearly everywhere today.
+001549  Feel free to edit, cut down, or paste this into your own tests.
