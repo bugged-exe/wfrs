@@ -12,6 +12,8 @@ struct Args {
     num_of_lines: bool,
     #[arg(short='m', long="characters")]
     num_of_characters: bool,
+    #[arg(short='w', long="words")]
+    num_of_words: bool,
 }
 
 fn main() {
@@ -27,11 +29,12 @@ fn run(args: Args) {
     if 
     args.length_in_bytes != true && 
     args.num_of_lines != true &&
-    args.num_of_characters != true
+    args.num_of_characters != true &&
+    args.num_of_words != true
     {
-        display_length_in_bytes(&file_name, &file_metadata);
         display_number_of_lines(&file_name, &file_contents);   
         display_number_of_characters(&file_name, &file_contents);
+        display_number_of_words(&file_name, &file_contents);
     }
 
     if args.length_in_bytes {
@@ -44,6 +47,10 @@ fn run(args: Args) {
 
     if args.num_of_characters {
         display_number_of_characters(&file_name, &file_contents);
+    }
+    
+    if args.num_of_words {
+        display_number_of_words(&file_name, &file_contents);
     }
 }
 
@@ -60,4 +67,10 @@ fn display_number_of_lines(file_name: &String, contents: &String) {
 fn display_number_of_characters(file_name: &String, contents: &String) {
     let characters = contents.chars().count();
     println!("The number of characters for '{}' is {}", file_name, characters);
+}
+
+fn display_number_of_words(file_name: &String, contents: &String) {
+    let contents = contents.split_whitespace();
+    let words = contents.count();
+    println!("The number of words for '{}' is {}", file_name, words);
 }
